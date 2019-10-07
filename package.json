@@ -2,7 +2,7 @@
   "name": "calculator8",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/OlwethuMkhuhlane/calculator",
+  "homepage": "https://OlwethuMkhuhlane.github.io/calculator",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.7.0",
