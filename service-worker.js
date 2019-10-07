@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/OlwethuMkhuhlane/calculator/precache-manifest.c4604bf48fbe79c1b8d53a88bfab97a6.js"
+  "/calculator/precache-manifest.8c4971ff267990a8a1817c7b0d2a6b48.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/OlwethuMkhuhlane/calculator/index.html", {
+workbox.routing.registerNavigationRoute("/calculator/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
